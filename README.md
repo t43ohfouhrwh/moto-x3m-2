@@ -1,1 +1,2 @@
-# moto-x3m-2
+# Moto X3M 2
+Credits to Ultimate Game Stash
